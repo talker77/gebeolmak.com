@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Hamilelik",
+        "children": [
+            {
+                "title": "Hafta Hafta Hamilelik"
+            },
+            {
+                "title": "Tüp Bebek"
+            }
+        ]
+    },
+    {
+        "title": "Anne ve Bebek",
+        "children": [
+            {
+                "title": "Bebek ve Güvenlik"
+            },
+            {
+                "title": "Ek Gıda"
+            },
+            {
+                "title": "Emzirme"
+            }
+        ]
+    },
+    {
+        "title": "Çocuk",
+        "children": [
+        ]
+    },
+    {
+        "title": "Beslenme",
+        "children": [
+        ]
+    },
+    {
+        "title": "Sağlık",
+        "children": [
+        ]
+    }
+]

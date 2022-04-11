@@ -1,0 +1,75 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 20/08/2017 10:35
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-location:before { content: "\f100"; }
+.flaticon-call-cost-symbol:before { content: "\f101"; }
+.flaticon-calendar:before { content: "\f102"; }
+.flaticon-substract:before { content: "\f103"; }
+.flaticon-add:before { content: "\f104"; }
+.flaticon-telephone:before { content: "\f105"; }
+.flaticon-clock:before { content: "\f106"; }
+.flaticon-envelope:before { content: "\f107"; }
+.flaticon-location-cursor:before { content: "\f108"; }
+.flaticon-approve:before { content: "\f109"; }
+.flaticon-cubes:before { content: "\f10a"; }
+.flaticon-salad:before { content: "\f10b"; }
+.flaticon-ux-design:before { content: "\f10c"; }
+.flaticon-mother:before { content: "\f10d"; }
+.flaticon-editor:before { content: "\f10e"; }
+.flaticon-first-aid-kit:before { content: "\f10f"; }
+.flaticon-open-book-top-view:before { content: "\f110"; }
+.flaticon-professor:before { content: "\f111"; }
+    
+    $font-Flaticon-location: "\f100";
+    $font-Flaticon-call-cost-symbol: "\f101";
+    $font-Flaticon-calendar: "\f102";
+    $font-Flaticon-substract: "\f103";
+    $font-Flaticon-add: "\f104";
+    $font-Flaticon-telephone: "\f105";
+    $font-Flaticon-clock: "\f106";
+    $font-Flaticon-envelope: "\f107";
+    $font-Flaticon-location-cursor: "\f108";
+    $font-Flaticon-approve: "\f109";
+    $font-Flaticon-cubes: "\f10a";
+    $font-Flaticon-salad: "\f10b";
+    $font-Flaticon-ux-design: "\f10c";
+    $font-Flaticon-mother: "\f10d";
+    $font-Flaticon-editor: "\f10e";
+    $font-Flaticon-first-aid-kit: "\f10f";
+    $font-Flaticon-open-book-top-view: "\f110";
+    $font-Flaticon-professor: "\f111";
